@@ -1,0 +1,259 @@
+{
+  "generatedAt": "2026-02-21T13:09:51.359Z",
+  "publicDir": "/Users/devitaliya/Documents/Code/assets/nextjs-assets-gallery/public",
+  "tree": {
+    "name": "public",
+    "relativePath": "(root)",
+    "pathFromPublic": "",
+    "children": [
+      {
+        "name": "Separate Atoms",
+        "relativePath": "Separate Atoms",
+        "pathFromPublic": "Separate Atoms",
+        "children": [
+          {
+            "name": "a person",
+            "relativePath": "Separate Atoms/a person",
+            "pathFromPublic": "Separate Atoms/a person",
+            "children": []
+          },
+          {
+            "name": "accessories",
+            "relativePath": "Separate Atoms/accessories",
+            "pathFromPublic": "Separate Atoms/accessories",
+            "children": []
+          },
+          {
+            "name": "body",
+            "relativePath": "Separate Atoms/body",
+            "pathFromPublic": "Separate Atoms/body",
+            "children": []
+          },
+          {
+            "name": "face",
+            "relativePath": "Separate Atoms/face",
+            "pathFromPublic": "Separate Atoms/face",
+            "children": []
+          },
+          {
+            "name": "facial-hair",
+            "relativePath": "Separate Atoms/facial-hair",
+            "pathFromPublic": "Separate Atoms/facial-hair",
+            "children": []
+          },
+          {
+            "name": "head",
+            "relativePath": "Separate Atoms/head",
+            "pathFromPublic": "Separate Atoms/head",
+            "children": []
+          },
+          {
+            "name": "pose",
+            "relativePath": "Separate Atoms/pose",
+            "pathFromPublic": "Separate Atoms/pose",
+            "children": [
+              {
+                "name": "sitting",
+                "relativePath": "Separate Atoms/pose/sitting",
+                "pathFromPublic": "Separate Atoms/pose/sitting",
+                "children": []
+              },
+              {
+                "name": "standing",
+                "relativePath": "Separate Atoms/pose/standing",
+                "pathFromPublic": "Separate Atoms/pose/standing",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Separate Atoms coloured",
+        "relativePath": "Separate Atoms coloured",
+        "pathFromPublic": "Separate Atoms coloured",
+        "children": [
+          {
+            "name": "a person",
+            "relativePath": "Separate Atoms coloured/a person",
+            "pathFromPublic": "Separate Atoms coloured/a person",
+            "children": []
+          },
+          {
+            "name": "accessories",
+            "relativePath": "Separate Atoms coloured/accessories",
+            "pathFromPublic": "Separate Atoms coloured/accessories",
+            "children": []
+          },
+          {
+            "name": "body",
+            "relativePath": "Separate Atoms coloured/body",
+            "pathFromPublic": "Separate Atoms coloured/body",
+            "children": []
+          },
+          {
+            "name": "face",
+            "relativePath": "Separate Atoms coloured/face",
+            "pathFromPublic": "Separate Atoms coloured/face",
+            "children": []
+          },
+          {
+            "name": "facial-hair",
+            "relativePath": "Separate Atoms coloured/facial-hair",
+            "pathFromPublic": "Separate Atoms coloured/facial-hair",
+            "children": []
+          },
+          {
+            "name": "head",
+            "relativePath": "Separate Atoms coloured/head",
+            "pathFromPublic": "Separate Atoms coloured/head",
+            "children": []
+          },
+          {
+            "name": "pose",
+            "relativePath": "Separate Atoms coloured/pose",
+            "pathFromPublic": "Separate Atoms coloured/pose",
+            "children": [
+              {
+                "name": "sitting",
+                "relativePath": "Separate Atoms coloured/pose/sitting",
+                "pathFromPublic": "Separate Atoms coloured/pose/sitting",
+                "children": []
+              },
+              {
+                "name": "standing",
+                "relativePath": "Separate Atoms coloured/pose/standing",
+                "pathFromPublic": "Separate Atoms coloured/pose/standing",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Templates",
+        "relativePath": "Templates",
+        "pathFromPublic": "Templates",
+        "children": [
+          {
+            "name": "Bust",
+            "relativePath": "Templates/Bust",
+            "pathFromPublic": "Templates/Bust",
+            "children": []
+          },
+          {
+            "name": "covid-19",
+            "relativePath": "Templates/covid-19",
+            "pathFromPublic": "Templates/covid-19",
+            "children": [
+              {
+                "name": "PNG",
+                "relativePath": "Templates/covid-19/PNG",
+                "pathFromPublic": "Templates/covid-19/PNG",
+                "children": []
+              },
+              {
+                "name": "SVG",
+                "relativePath": "Templates/covid-19/SVG",
+                "pathFromPublic": "Templates/covid-19/SVG",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sitting",
+            "relativePath": "Templates/Sitting",
+            "pathFromPublic": "Templates/Sitting",
+            "children": []
+          },
+          {
+            "name": "Standing",
+            "relativePath": "Templates/Standing",
+            "pathFromPublic": "Templates/Standing",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Templates coloured",
+        "relativePath": "Templates coloured",
+        "pathFromPublic": "Templates coloured",
+        "children": [
+          {
+            "name": "Bust",
+            "relativePath": "Templates coloured/Bust",
+            "pathFromPublic": "Templates coloured/Bust",
+            "children": []
+          },
+          {
+            "name": "covid-19",
+            "relativePath": "Templates coloured/covid-19",
+            "pathFromPublic": "Templates coloured/covid-19",
+            "children": [
+              {
+                "name": "PNG",
+                "relativePath": "Templates coloured/covid-19/PNG",
+                "pathFromPublic": "Templates coloured/covid-19/PNG",
+                "children": []
+              },
+              {
+                "name": "SVG",
+                "relativePath": "Templates coloured/covid-19/SVG",
+                "pathFromPublic": "Templates coloured/covid-19/SVG",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sitting",
+            "relativePath": "Templates coloured/Sitting",
+            "pathFromPublic": "Templates coloured/Sitting",
+            "children": []
+          },
+          {
+            "name": "Standing",
+            "relativePath": "Templates coloured/Standing",
+            "pathFromPublic": "Templates coloured/Standing",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "allFolderPaths": [
+    "Separate Atoms",
+    "Separate Atoms coloured",
+    "Separate Atoms coloured/a person",
+    "Separate Atoms coloured/accessories",
+    "Separate Atoms coloured/body",
+    "Separate Atoms coloured/face",
+    "Separate Atoms coloured/facial-hair",
+    "Separate Atoms coloured/head",
+    "Separate Atoms coloured/pose",
+    "Separate Atoms coloured/pose/sitting",
+    "Separate Atoms coloured/pose/standing",
+    "Separate Atoms/a person",
+    "Separate Atoms/accessories",
+    "Separate Atoms/body",
+    "Separate Atoms/face",
+    "Separate Atoms/facial-hair",
+    "Separate Atoms/head",
+    "Separate Atoms/pose",
+    "Separate Atoms/pose/sitting",
+    "Separate Atoms/pose/standing",
+    "Templates",
+    "Templates coloured",
+    "Templates coloured/Bust",
+    "Templates coloured/Sitting",
+    "Templates coloured/Standing",
+    "Templates coloured/covid-19",
+    "Templates coloured/covid-19/PNG",
+    "Templates coloured/covid-19/SVG",
+    "Templates/Bust",
+    "Templates/Sitting",
+    "Templates/Standing",
+    "Templates/covid-19",
+    "Templates/covid-19/PNG",
+    "Templates/covid-19/SVG"
+  ]
+}
